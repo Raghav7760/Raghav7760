@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raghav Sharma 
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning dart language
+- 🌱 I’m currently learning java language
 - 📫 How to reach me mail me at raghav.v998@gmail.com
 
 <!---
